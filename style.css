@@ -1,1 +1,12 @@
 /* Start coding here */
+input[type="email"]:disabled {
+  background-color: lightgray;
+}
+
+input:hover {
+  border-color: khaki;
+}
+
+button:hover {
+  color: pink;
+}
